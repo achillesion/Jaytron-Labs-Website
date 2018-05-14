@@ -1,0 +1,2 @@
+#ErrorDocument 401 
+#ErrorDocument 404 /404.html
